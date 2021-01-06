@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJS.
 - 🔭 I’m currently working on my JavaScript skills.
-- 🤔 I’m looking for help with Java programming and backend development with NodeJS and SpringBoot. (contact me if intrested)
+- 🤔 I’m looking for help with Java programming and backend development with NodeJS and SpringBoot. (contact me if interested)
 - 👯 I’m looking for someone to mentor me on learning the above ☝.
 - 😛 I’m currently trying to start with #100daysofcode 🤍.
 
