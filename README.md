@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on my JavaScript skills.
 - 🤔 I’m looking for help with Java programming and backend development with NodeJS and SpringBoot.
 - 👯 I’m looking for someone to mentor me on learning the above ☝. (contact me if interested)
-- 🚀 I’m currently in-progress #100daysofcode 🤍.
 
 ### Languages and Tools:
 
